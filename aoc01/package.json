@@ -1,0 +1,17 @@
+{
+  "name": "aoc01",
+  "version": "1.0.0",
+  "description": "Advent Of Code 2022 Day 1",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}
